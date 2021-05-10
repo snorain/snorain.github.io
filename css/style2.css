@@ -1,0 +1,103 @@
+html {
+    background-color: #1b1b1b;
+}
+
+body {
+    padding: 0;
+    margin: 0;
+}
+
+.snorainstudios {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: x-large;
+    text-align: center;
+    font-weight: bolder;
+    color: #059dd4;
+}
+
+.studioscolor {
+    color: rgb(138, 0, 80);
+}
+
+.dummyimage {
+    width: 450px;
+    height: 250px;
+}
+
+.dummynametop {
+    height: 45px;
+    margin: 0;
+    padding: 0;
+    color: grey;
+    font-size: 25px;
+}
+
+.dummynamenew {
+    margin: 0;
+    padding: 0;
+    color: grey;
+    font-size: 25px;
+}
+
+.dummycategory {
+    line-height : 5px;
+    margin-block-start: 0;
+    margin-block-end: 0;
+    margin: 0;
+    padding: 0;
+}
+
+.dummycategory1 {
+    font-weight: 25px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 20px;
+    color: grey;
+}
+
+.dummycategory2 {
+    font-size: 20px;
+    font-family: Arial, Helvetica, sans-serif;
+    color: darkred;
+}
+
+.dummycategorynew {
+    line-height : 5px;
+    margin-block-start: 0;
+    margin-block-end: 0;
+    margin: 0;
+    padding: 0;
+}
+
+.dummycategory1new {
+    font-weight: 25px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 20px;
+    color: grey;
+}
+
+.dummycategory2new {
+    font-size: 20px;
+    font-family: Arial, Helvetica, sans-serif;
+    color: darkred;
+}
+
+.topvotedgames {
+    line-height : 60px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 50px;
+    color: #004A8A;
+
+}
+
+.newestgames {
+    
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 50px;
+    color: rgb(138, 0, 80);
+}
+
+.navbar {
+    padding: 10px;
+    height: auto;
+    background-color: black;
+}

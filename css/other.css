@@ -1,0 +1,15 @@
+.codeblock {
+        background-color: #eee;
+        border: 1px solid #999;
+        display: block;
+        padding: 20px;
+      }
+      
+      #page-container {
+        position: relative;
+        min-height: 100vh;
+      }
+
+	  #content-wrap {
+        padding-bottom: 2.5rem;    /* Footer height */
+      }

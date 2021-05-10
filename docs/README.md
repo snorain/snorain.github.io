@@ -1,2 +1,2 @@
-# ObsidianOS
-this is the github page for the ObsidianOS website.
+# snorain
+this is the github page for the Testsnorain website.

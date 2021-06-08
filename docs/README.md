@@ -1,2 +1,2 @@
 # snorain
-this is the github page for the Testsnorain website.
+this is the github page for the snorain website.

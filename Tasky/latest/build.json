@@ -1,17 +1,15 @@
 {
-  "ver": "1.0.1",
-  "auth": "oxmc",
+  "Ver": "1.0.1",
+  "Auth": "oxmc",
   "Supported": [
     {
       "Name": "Windows",
-    },
-    {
-      "Name": "Rpi",
+      "Name": "Rpi"
     }
   ],
   "UnSupported": [
     {
-      "Name": "Mac",
+      "Name": "Mac"
     }
   ],
   "LatestBuild": "armv7l",
